@@ -1,8 +1,8 @@
 {
-    "name": "Romeo-Userbot",
+    "name": "RADHE_ON_FIRE",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/RRomeo-RJ/Romeo-UserBot",
+    "repository": "https://github.com/RADHEEXUSER/Spam",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
