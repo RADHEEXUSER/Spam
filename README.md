@@ -1,13 +1,13 @@
 
-> 𝐑𝐎𝐌𝐄𝐎𝐁𝐎𝐓 </b>
+> RADHE BOT </b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/a62b9c7d9848afde0569e.jpg" alt="Romeo-RJ">
+  <img src="https://graph.org/file/8dcd0967e7269707fcf06.jpg" alt="Romeo-RJ">
 </p>
 
 <h6 align="center">
-  <b>🇮🇳 𝐑𝐎𝐌𝐄𝐎★𝐁𝐎𝐓 🇮🇳</b>
+  <b>🇮🇳 RADHE★BOT 🇮🇳</b>
 </h6>
 
 <h3 align="center">
